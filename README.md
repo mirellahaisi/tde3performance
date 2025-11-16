@@ -9,7 +9,7 @@
 ---
 
 ## Vídeo de Explicação  
-[Link para o vídeo explicativo do projeto](COLE_AQUI_O_LINK_DO_VIDEO)
+[Link para o vídeo explicativo do projeto](https://youtu.be/jXGA65W5i8s)
 
 ---
 
