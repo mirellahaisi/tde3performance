@@ -1,4 +1,4 @@
-# Projeto de Concorrência - Threads, Semáforos e Deadlock
+# TDE3
 
 **Integrantes:**  
 Giovanna Rita Santos Daniel, Leonardo Stall, Mirella Haisi Szvarça e João Lucas do Prado Ribeiro
