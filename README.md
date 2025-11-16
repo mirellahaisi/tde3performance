@@ -1,7 +1,10 @@
 # TDE3
 
 **Integrantes:**  
-Giovanna Rita Santos Daniel, Leonardo Stall, Mirella Haisi Szvarça e João Lucas do Prado Ribeiro
+- Giovanna Rita Santos Daniel  
+- Leonardo Stall  
+- Mirella Haisi Szvarça  
+- João Lucas do Prado Ribeiro
 
 ---
 
